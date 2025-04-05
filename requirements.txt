@@ -6,3 +6,4 @@ langchain_core
 langchain
 langchain_google_genai
 python-dotenv
+pypdf
