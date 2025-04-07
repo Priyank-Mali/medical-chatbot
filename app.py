@@ -1,16 +1,3 @@
-# import streamlit as st
-# from chatbot import get_bot_response
-
-# st.set_page_config(page_title="priyank Chatbot", page_icon="🩺")
-# st.title("🩺 Medical Chatbot")
-
-# user_input = st.text_input("Ask a medical question:")
-
-# if user_input:
-#     with st.spinner("Thinking..."):
-#         response = get_bot_response(user_input)
-#     st.success(response)
-
 import streamlit as st
 from chatbot import get_bot_response
 
